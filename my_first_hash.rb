@@ -34,8 +34,7 @@ def adding
                  }
   # add 2 muskets to the shipping_manifest hash below
   
-  additions= {"gun powder"=>4, "muskets"=>2}
-  shipping_manifest[additions]
+  []= {"gun powder"=>4, "muskets"=>2}
   shipping_manifest
 
   # add 4 gun powder to the shipping_manifest hash below
